@@ -1,4 +1,4 @@
-# FruitNet-V4X 🍎🍌🍇🥭🍊
+# FruitNet-V4X 🍎
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange.svg)](https://www.tensorflow.org/)
