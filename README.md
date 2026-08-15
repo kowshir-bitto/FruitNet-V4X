@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <p align="center">
-  <img src="images/proposed_model.png" alt="Proposed FruitNet-V4X Model Architecture" width="850">
+  <img src="proposed_model.png" alt="Proposed FruitNet-V4X Model Architecture" width="850">
 </p>
 
 <p align="center">
