@@ -4,6 +4,14 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<p align="center">
+  <img src="images/proposed_model.png" alt="Proposed FruitNet-V4X Model Architecture" width="850">
+</p>
+
+<p align="center">
+  <b>Figure: Proposed architecture of the FruitNet-V4X framework.</b>
+</p>
+
 **FruitNet-V4X** is a deep-learning-based fruit image classification project built with **TensorFlow/Keras** and **MobileNetV2 transfer learning**. The notebook classifies fruit images across fresh, rotten, and formalin-mixed categories and evaluates the model using **5-fold cross-validation**.
 
 The current implementation works with a 15-class fruit image dataset containing Apple, Banana, Grape, Mango, and Orange samples under different quality/condition categories.
