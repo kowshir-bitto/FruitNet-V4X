@@ -208,6 +208,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Author
 
-**kowshir-bitto**
+**Abu Kowshir Bitto**
 
-GitHub: [@kowshir-bitto](https://github.com/kowshir-bitto)
+- GitHub: [@kowshir-bitto](https://github.com/kowshir-bitto)
+- Website: [kowshirbitto.me](http://kowshirbitto.me/)
+- Google Scholar: [Abu Kowshir Bitto](https://scholar.google.com/citations?hl=en&user=AO0dWsgAAAAJ&view_op=list_works&gmla=AJ1KiT30Ms5pY2DUl6pfWl4cwjlBOwygW_3wawpWiD_769YBbLX8_0rqv4MiIf05GjDe6xY81ApN7Gy1DfwYJCZu)
